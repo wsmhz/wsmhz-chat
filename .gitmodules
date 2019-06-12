@@ -1,0 +1,3 @@
+[submodule "chat-service"]
+	path = chat-service
+	url = https://github.com/wsmhz/chat-service.git
